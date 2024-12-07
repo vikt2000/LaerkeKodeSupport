@@ -1,0 +1,4 @@
+C:\Users\vikto\OneDrive\Skrivebord\lærke kode\test3\assignment3\src\obj\Debug\net5.0\mothApp.fsproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Skrivebord\lærke kode\test3\assignment3\src\obj\Debug\net5.0\mothApp.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Skrivebord\lærke kode\test3\assignment3\src\obj\Debug\net5.0\mothApp.AssemblyInfo.fs
+C:\Users\vikto\OneDrive\Skrivebord\lærke kode\test3\assignment3\src\obj\Debug\net5.0\mothApp.fsproj.CoreCompileInputs.cache

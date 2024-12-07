@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZsMtTYAAIbc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\OneDrive\\Skrivebord\\lærke kode\\test3\\assignment3\\src\\mothApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\fsharp.core\\9.0.100\\fsharp.core.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
